@@ -6,3 +6,6 @@ Shows the front and the back of the card. First the french word is displayed and
 
 ![image](https://github.com/sammy-9930/Learn-French/assets/80445152/7d9471e8-2948-47b7-90c5-9b79ab2da6a9)
 
+
+# Resources
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
